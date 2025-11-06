@@ -1,5 +1,6 @@
 #time-left {
   display: flex;
+  gap: 20px;
   }
 
 #output {
@@ -15,6 +16,7 @@
     border-radius: 10px;
     opacity: 0.8;
 }
+
 
 
 
