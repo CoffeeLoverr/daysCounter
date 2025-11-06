@@ -1,8 +1,6 @@
 #time-left {
   display: flex;
-  width: 30%;
-
-}
+  }
 
 #output {
   display: flex;
@@ -13,13 +11,10 @@
   color: sienna;
 }
 
-#image {
-    
+#image {    
     border-radius: 10px;
     opacity: 0.8;
 }
 
-h1 {
-    color: 
 
-}
+
